@@ -3,7 +3,7 @@ var socket = require('socket.io')
 // the app
 
 var app = express();
-var server = app.listen("http://chaouki-chatBox.herokuapp.com/",function(){
+var server = app.listen("http://chaouki-chatbox.herokuapp.com/",function(){
 console.log("listening for reqs from port 4000 !");
 });
 

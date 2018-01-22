@@ -1,6 +1,6 @@
 // make connection
 
-var socket = io.connect("http://chaouki-chatBox.herokuapp.com/");
+var socket = io.connect("http://chaouki-chatbox.herokuapp.com/");
 
 // interface variables
 
